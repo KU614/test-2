@@ -1,0 +1,77 @@
+{
+  "users": {
+    "kubrain505@gmail.com": {
+      "rp2": {
+        "sheetLength": 9680,
+        "sheetThickness": 12,
+        "heatingTime": 2,
+        "sheetsInFurnace": 5,
+        "cardNumber": "10",
+        "sheetsInCard": 10,
+        "remainingSheets": 9,
+        "isDowntime": false,
+        "isProcessStarted": true,
+        "journal": [
+          {
+            "timestamp": "2025-06-04T13:43:19.317Z",
+            "message": "Запуск процесса",
+            "cardNumber": "10",
+            "isDowntimeStart": null,
+            "isProcessStart": true
+          },
+          {
+            "timestamp": "2025-06-04T13:48:07.359Z",
+            "message": "Выдан лист",
+            "cardNumber": "10",
+            "isDowntimeStart": null,
+            "isProcessStart": false
+          }
+        ],
+        "sheetsManual": true,
+        "heatingDuration": 288,
+        "heatingStart": 1749044887368,
+        "pauseTotal": 0,
+        "pauseStart": null,
+        "downtimeStart": null
+      },
+      "rp3": {
+        "sheetLength": 800,
+        "sheetThickness": 0,
+        "heatingTime": 0,
+        "sheetsInFurnace": 0,
+        "cardNumber": "",
+        "sheetsInCard": 0,
+        "remainingSheets": 0,
+        "isDowntime": false,
+        "isProcessStarted": false,
+        "journal": [],
+        "sheetsManual": false,
+        "heatingDuration": 0,
+        "heatingStart": null,
+        "pauseTotal": 0,
+        "pauseStart": null,
+        "downtimeStart": null
+      },
+      "rp4": {
+        "sheetLength": 800,
+        "sheetThickness": 0,
+        "heatingTime": 0,
+        "sheetsInFurnace": 0,
+        "cardNumber": "",
+        "sheetsInCard": 0,
+        "remainingSheets": 0,
+        "isDowntime": false,
+        "isProcessStarted": false,
+        "journal": [],
+        "sheetsManual": false,
+        "heatingDuration": 0,
+        "heatingStart": null,
+        "pauseTotal": 0,
+        "pauseStart": null,
+        "downtimeStart": null
+      }
+    }
+  },
+  "theme": "dark",
+  "selectedTab": null
+}
